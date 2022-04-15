@@ -9,7 +9,7 @@ import UIKit
 
 class TableViewCell: UITableViewCell {
     
-    //MARK: IBOutlets
+    //MARK: - IBOutlets
     @IBOutlet var nameLabel: UILabel!
     @IBOutlet var speciesLabel: UILabel!
     @IBOutlet var genderLabel: UILabel!
